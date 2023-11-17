@@ -9,6 +9,6 @@ const somarDivisores = (num) => {
 }
 // para todos os valores inseridos em N, a função retornará os valores divisíveis por 3 ou 5 inferiores a N
 // para testar outros valores é só alterar o N
-var n = 10;
+var n = prompt("Digite um número: ");
 var result = somarDivisores(n);
 console.log(`O resultado da soma dos divisores de 3 e  5 inferiores a ${n} é: ${result}`);
