@@ -5,3 +5,5 @@ abrir o console do navegado apertando simultaneamente as teclas CTRL + SHIFT + J
 Também é possível rodar o código ao utilizar a IDE online: https://www.programiz.com/javascript/online-compiler/
 Ao acessar a IDE online, copie o código deste repositório (CTRL C) e cole na linha de comando da IDE (CTRL V)
 Depois disso basta clickar em "Run" que o código irá rodar.
+
+Para testa, basta rodas o código e preencher ao Pop-up solicitando um numero e informe o inteiro que desejar;
