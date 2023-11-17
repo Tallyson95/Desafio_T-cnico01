@@ -11,4 +11,4 @@ const somarDivisores = (num) => {
 // para testar outros valores é só alterar o N
 var n = prompt("Digite um número: ");
 var result = somarDivisores(n);
-console.log(`O resultado da soma dos divisores de 3 e  5 inferiores a ${n} é: ${result}`);
+alert(`O resultado da soma dos divisores de 3 e  5 inferiores a ${n} é: ${result}`);
