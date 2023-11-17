@@ -1,4 +1,4 @@
-# Desafio_T-cnico01
+# Desafio_Técnico01 em JavaScript
 Para testar o código, basta copiar o código deste repositório (CTRL C).
 abrir o console do navegado apertando simultaneamente as teclas CTRL + SHIFT + J e colcar o código (CTRL V) na linha de comando do console.
 
